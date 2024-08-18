@@ -3,8 +3,6 @@
 ### Discord Link:
  https://discord.gg/darknethaxor
 
- 
-<br>
 <br>
 
 <p>

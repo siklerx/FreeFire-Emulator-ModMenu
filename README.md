@@ -5,6 +5,11 @@
 
 <br>
 
+### Installation:
+ https://youtu.be/LgrW91zR4V4
+ 
+<br>
+
 <p>
 <img title="Demo" src="https://raw.githubusercontent.com/siklerx/FreeFire-Emulator-ModMenu/main/pictures/demo.jpg">
 </p><br>

@@ -3,8 +3,6 @@
 ### Discord Link:
  https://discord.gg/darknethaxor
 
-<br>
-
 ### Installation:
  https://youtu.be/LgrW91zR4V4
  
